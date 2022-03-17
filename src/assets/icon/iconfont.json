@@ -1,0 +1,16 @@
+{
+  "id": "3235937",
+  "name": "copd",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8288985",
+      "name": "肺",
+      "font_class": "fei",
+      "unicode": "e867",
+      "unicode_decimal": 59495
+    }
+  ]
+}

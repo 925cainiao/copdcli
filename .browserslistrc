@@ -1,0 +1,9 @@
+#desktop
+ie >= 10
+Safari >= 8
+Chrome > 49
+Firefox > 50
+# Mobile
+iOS >=8
+Android >= 4.2
+ChromeAndroid > 49
